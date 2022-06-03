@@ -4,6 +4,7 @@
 - 👀 I’m interested in all kind of web technologies.
 - 🌱 I’m currently learning pure hardcore css to suffer my self to knowledge.
 - 🧮 Things i want to learn soon
+large scale distributed systems for cloud and ml probably considering working for openai
   - Front-End-Frameworks and libraries
     - React
     - Vue
