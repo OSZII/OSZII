@@ -3,42 +3,44 @@
 - 👋 Hi, I’m @OSZII passionate programmer
 - 👀 I’m interested in all kind of web technologies.
 - 🌱 I’m currently learning pure hardcore css to suffer my self to knowledge.
-- 🧮 Things i want to learn soon
-large scale distributed systems for cloud and ml probably considering working for openai
+- 🧮 Things i want to learn or look into
+- ! mark the important stuff
+
+  - TODO
+    - Get fluent in Svelte 
+    - Get fluent in Laravel
+    - Build a thermoelectric generator for stoves(make it amazing and probably a product)
+    
+  
   - Front-End-Frameworks and libraries
-    - React
+    - SveltJS!
     - Vue
-    - Hydrogen
-    - Tailwind
+    - Tailwind!
     - Halfmoon
-    - Angular
-    - Solid
   - JS Frameworks
     - PixiJS
     - Web3JS
     - NextJS
     - RemixJS
-    - SveltJS
+
   - Programming Languages I wanna learn
     - Kotlin
     - Go
     - Rust
     - Taicchi
-    - Cobol (Yeah that's an old one)
+    - Cobol (Yeah that's an old one)!
+    - Fortran (Old too)!
+    (Cobol and Fortran are btw. must knows for me 😂)
     - V (brand new and looks interesting) 
+    
   - Other stuff I wanna learn
-    - Web Sockets
-    - SciKit learn
-    - Tensorflow
+    - Web Sockets!
+    - SciKit or Tensorflow
     - p5js
-    - Less
-    - Sass
-    - CSS advanced Design and Animations
-    - Flutter
-    - Linux (yeah i missed that one it's really important)
-  - Some really cool stuff to learn
-    - AI Object deteection
-    - Reinforced Neural Network
+    - Sass or Less
+    - CSS advanced Design and Animations!
+    - Linux (improving in this area)
+    
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me ostojicstefan2606@gmail.com
 
