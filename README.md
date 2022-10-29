@@ -1,22 +1,22 @@
 <h1>Some things about me</h1>
 
-- 👋 Hi, I’m @OSZII passionate programmer
+- 👋 Hi, I’m @OSZII brogrammer
 - 👀 I’m interested in all kind of web technologies.
-- 🌱 I’m currently learning pure hardcore css to suffer my self to knowledge.
-- 🧮 Things i want to learn or look into
-- ! mark the important stuff
+<!-- - 🌱 I’m currently learning pure hardcore css to suffer my self to knowledge. -->
+<!-- - 🧮 Things i want to learn or look into -->
 
   - TODO
-    - Get fluent in Svelte 
-    - Get fluent in Laravel
-    - Build a thermoelectric generator for stoves(make it amazing and probably a product)
-    
+    - Svelte 
+    - Laravel
+    - Harvard CS50 computer science course
+    - Sveltekit
+    - Wordpress
   
-  - Front-End-Frameworks and libraries
+<!--   - Front-End-Frameworks and libraries
     - SveltJS!
     - Vue
-    - Tailwind!
-    - Halfmoon
+    - Tailwind! -->
+<!--     - Halfmoon
   - JS Frameworks
     - PixiJS
     - Web3JS
@@ -39,9 +39,8 @@
     - p5js
     - Sass or Less
     - CSS advanced Design and Animations!
-    - Linux (improving in this area)
+    - Linux (improving in this area) -->
     
-<!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me ostojicstefan2606@gmail.com
 
 <!---
