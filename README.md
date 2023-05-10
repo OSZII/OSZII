@@ -1,5 +1,8 @@
 # 💫 About Me:
-🔭 I’m currently working on my portfolio pag (ostojicstefan.com)<br>🌱 I’m currently learning nest.js with class-validator<br>💬 Ask me about anything you wan't if i can't answer it i'll just ask chatGPT 🤷‍♂️<br>⚡ Did you know that the transistor is the most produced product by humans
+🔭 I’m currently working on a chrome extension
+<br>🌱 I’m currently learning sveltekit, supabase and google chrome extension development
+<br>💬 Ask me about anything you wan't if i can't answer it i'll just ask chatGPT 🤷‍♂️
+<br>⚡ Funfact: Did you know that the transistor is the most produced product by humans
 
 
 ## 🌐 Socials:
