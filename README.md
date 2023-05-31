@@ -16,7 +16,7 @@ I'm just going to list all technologies I have worked with in the past! (may the
 
 ### Databases
 MariaDB, MySQL, MongoDB, Redis, Neo4J, Vitess(MySQL via Planetscale, orig. YouTube), PostgreSQL, MSSQL, OracleDB
-Datamodelling (incl. Oracle Database Design Certificate view on LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ostojic-stefan-8601a41ab/))
+Datamodelling (incl. Oracle Database Design Certificate view on [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ostojic-stefan-8601a41ab/))
 
 ### Languages
 C++, C#, Java, JavaScript(incl. Typescript), PHP, Python, Golang, Bash, Powershell
@@ -31,7 +31,7 @@ Java Spring, Laravel, NestJs, Expressjs, Golang, Flask
 Sveltekit
 
 ### Other Stuff
-Git, Docker, VPS, GCP, AWS, RestAPI, Postman, Insomnia, VsCode, MySQL Workbench, Bootstrap, DaisyUI, CSS, TailwindCSS, Object Oriented Programming, HTML, Server Management/Configuration(Windows Server, Ubuntu on GCP, Digital Ocean, Oracle Cloud), Digital Ocean, Oracle Cloud, NodeJs, Nginx, JWT, RaspberryPI, Arduino, 
+Git, Docker, VPS, GCP, AWS, RestAPI, Postman, Insomnia, VsCode, MySQL Workbench, Bootstrap, DaisyUI, CSS, TailwindCSS, Object Oriented Programming, HTML, Server Management/Configuration(Windows Server, Ubuntu on GCP, Digital Ocean, Oracle Cloud), Digital Ocean, Oracle Cloud, NodeJs, Nginx, JWT, RaspberryPI, Arduino, Chrome Extensions Manifest V3, Prisma, Linux, Ubuntu, Alpine, Windows, Supabase, TDD, Regex, CRUD, 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=OSZII&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
