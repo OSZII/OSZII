@@ -31,7 +31,7 @@ Java Spring, Laravel, NestJs, Expressjs, Golang, Flask
 Sveltekit
 
 ### Other Stuff
-Git, Docker, VPS, GCP, AWS, RestAPI, Postman, Insomnia, VsCode, MySQL Workbench, Bootstrap, DaisyUI, CSS, TailwindCSS, Object Oriented Programming, HTML, Server Management/Configuration(Windows Server, Ubuntu on GCP, Digital Ocean, Oracle Cloud), Digital Ocean, Oracle Cloud, NodeJs, Nginx, JWT, RaspberryPI, Arduino, Chrome Extensions Manifest V3, Prisma, Linux, Ubuntu, Alpine, Windows, Supabase, TDD, Regex, CRUD, 
+Git, Docker, VPS, GCP, AWS, RestAPI, Postman, Insomnia, VsCode, MySQL Workbench, Bootstrap, DaisyUI, CSS, TailwindCSS, Object Oriented Programming, HTML, Server Management/Configuration(Windows Server, Ubuntu on GCP, Digital Ocean, Oracle Cloud), Digital Ocean, Oracle Cloud, NodeJs, Nginx, JWT, RaspberryPI, Arduino, Chrome Extensions Manifest V3, Prisma, Linux, Ubuntu, Alpine, Windows, Supabase, TDD, Regex, CRUD, Figma, Swagger, Markdown
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=OSZII&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
