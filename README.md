@@ -27,7 +27,7 @@ React, Svelte, Vue
 ### Backend
 Java Spring, Laravel, NestJs, Expressjs, Golang, Flask
 
-### Fullstack
+### Meta Frameworks
 Sveltekit
 
 ### Other Stuff
