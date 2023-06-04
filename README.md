@@ -10,7 +10,7 @@ I love programming and spend a lot of my free time just figuring out stuff. A lo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ostojic-stefan-8601a41ab/) 
 
 # 💻 Tech Stack:
-<br>
+
 ## Additionally
 I'm just going to list all technologies I have worked with in the past! (may there be some duplicates with the icons)
 
