@@ -1,6 +1,6 @@
 # 💫 About Me:
 <br>🔭 I’m currently all in on Svelte and Sveltekit in combination with TS ❤ approx 3 years of total experience
-<br>🌱 Done a little bit with golang, python and java, webflow, vuejs and laravel
+<br>🌱 Done a little bit with golang, python and java, webflow, vuejs and laravel and more (see below)
 <br>💬 I dislike mongo and love postgres
 <br>
 At the moment of writing this I have about 2y of professional Web dev experience with Vuejs on a big ecoomerce store with over 270+ shops and 6k+ employees!
@@ -42,6 +42,7 @@ Good old git serves me well, rebases and mr conflicts can't hurt me anymore 😢
 ### Other Stuff I at least touched once
 Git, Docker, GCP, Restfull API's, MySQL Workbench, Bootstrap, DaisyUI, CSS(and SCSS), TailwindCSS , Object Oriented Programming, HTML, Server Management/Configuration(Windows Server, Ubuntu on GCP, Digital Ocean, Oracle Cloud), Digital Ocean, Oracle Cloud, NodeJs, Nginx, JWT, RaspberryPI, Arduino, Chrome Extensions Manifest V3, Linux, Ubuntu, Alpine, Windows, Supabase, TDD, Regex, CRUD, Figma, Swagger, Markdown, ABAP, Stripe (for payments)
 
+DISCLAIMER: for presentation purposes most of my git repos are private
 
 quadruple these stats and you got my work git included:
 # 📊 GitHub Stats:
