@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently all in on Svelte and Sveltekit in combination with TS ❤ approx 3 years of total expierience
+<br>🔭 I’m currently all in on Svelte and Sveltekit in combination with TS ❤ approx 3 years of total experience
 <br>🌱 Done a little bit with golang, python and java, webflow, vuejs and laravel
 <br>💬 I dislike mongo and love postgres
 <br>
