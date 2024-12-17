@@ -1,25 +1,22 @@
 # 💫 About Me:
-🔭 I’m currently learning Laravel ❤ then => continue Reddit chrome extension!
-<br>🌱 I’m currently learning sveltekit, supabase and google chrome extension development
-<br>💬 Ask me about anything you wan't if i can't answer it i'll just ask chatGPT 🤷‍♂️
-<br>⚡ Funfact: Did you know that the transistor is the most produced product by humans
+🔭 I’m currently all in on Svelte and Sveltekit in combination with TS ❤ approx 3 years of total expierience
+<br>🌱 Done a little bit with golang, python and java, webflow, vuejs and laravel
+<br>💬 I dislike mongo and love postgres
 <br>
-I love programming and spend a lot of my free time just figuring out stuff. A lot of my knowledge is gained this way. Always interested in new stuff and never afraid to figure something out!
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ostojic-stefan-8601a41ab/) 
+At the moment of writing this I have about 2y of professional Web dev experience with Vuejs on a big ecoomerce store with over 270+ shops and 6k+ employees!
+Most of my initial knowledge is gained through self study and then improved in college and at work 😎
 
 # 💻 Tech Stack:
 
-## Additionally
-I'm just going to list all technologies I have worked with in the past! (may there be some duplicates with the icons)
+### MAIN Techstack
+Sveltekit with raw postgres if I need something more I love to add in some Laravel!
 
 ### Databases
-MariaDB, MySQL, MongoDB, Redis, Neo4J, Vitess(MySQL via Planetscale, orig. YouTube), PostgreSQL, MSSQL, OracleDB
+MariaDB, MySQL, MongoDB, PostgreSQL, MSSQL, OracleDB
 Datamodelling (incl. Oracle Database Design Certificate view on [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ostojic-stefan-8601a41ab/))
 
 ### Languages
-C++, C#, Java, JavaScript(incl. Typescript), PHP, Python, Golang, Bash, Powershell
+C++, C#, Java, JavaScript(incl. Typescript), PHP (I actually like that one a lot), Python, Golang, Bash, Powershell
 
 ### Frontend "Frameworks"
 React, Svelte, Vue
@@ -30,10 +27,23 @@ Java Spring, Laravel, NestJs, Expressjs, Golang, Flask
 ### Meta Frameworks
 Sveltekit
 
-### Other Stuff
-Git, Docker, VPS, GCP, AWS, RestAPI, Postman, Insomnia, VsCode, MySQL Workbench, Bootstrap, DaisyUI, CSS, TailwindCSS, Object Oriented Programming, HTML, Server Management/Configuration(Windows Server, Ubuntu on GCP, Digital Ocean, Oracle Cloud), Digital Ocean, Oracle Cloud, NodeJs, Nginx, JWT, RaspberryPI, Arduino, Chrome Extensions Manifest V3, Prisma, Linux, Ubuntu, Alpine, Windows, Supabase, TDD, Regex, CRUD, Figma, Swagger, Markdown, ABAP, Stripe (for payments)
+### AUTH
+I mainly use jwt and OAuth with google
+
+### Hosting
+Over the years I tried a lot of things but right now I throw everything at my VPS with coolify!
+
+### CSS
+I did few things over the years including bootstrap and plain old css, but tailwind seems to be the best fit after trying out multiple things. I often combine it with daisyui
+
+### Version control
+Good old git serves me well, rebases and mr conflicts can't hurt me anymore 😢
+
+### Other Stuff I at least touched once
+Git, Docker, GCP, Restfull API's, MySQL Workbench, Bootstrap, DaisyUI, CSS(and SCSS), TailwindCSS , Object Oriented Programming, HTML, Server Management/Configuration(Windows Server, Ubuntu on GCP, Digital Ocean, Oracle Cloud), Digital Ocean, Oracle Cloud, NodeJs, Nginx, JWT, RaspberryPI, Arduino, Chrome Extensions Manifest V3, Linux, Ubuntu, Alpine, Windows, Supabase, TDD, Regex, CRUD, Figma, Swagger, Markdown, ABAP, Stripe (for payments)
 
 
+quadruple these stats and you got my work git included:
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=OSZII&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=OSZII&theme=dark&hide_border=false)<br/>
